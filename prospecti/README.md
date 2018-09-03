@@ -8,8 +8,29 @@ To consolidate this body of research, we first curated a corpus of works by firs
 
 ### 2011
 
-- Collocated Interaction with Flying Robots by Wai Shan (Florence) Ng and Ehud Sharlin, in IEEE RO-MAN 2011
+- [Collocated Interaction with Flying Robots]() by Wai Shan (Florence) Ng and Ehud Sharlin in RO-MAN
 
 ### 2013
 
-- Displaydrone: A Flying Robot Based Interactive Display by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su, in ACM PerDis '13
+- [Displaydrone: A Flying Robot Based Interactive Display]() by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in PerDis
+
+### 2014
+
+- [Communication of Intent in Assistive Free Flyers]() by Daniel Szafir, Bilge Mutlu, and Terrence Fong in HRI
+- [Midair Displays: Exploring the Concept of Free-Floating Public Displays]() by Stefan Schneegass, Florian Alt, Jürgen Scheible, Albrecht Schmidt, and Heifeng Su ın CHI EA
+- [Midair Displays: Concept and First Experiences with Free-Floating Pervasive Displays]() by Stefan Schneegass, Florian Alt, Jürgen Scheible, and Albrecht Schmidt in PerDis
+
+### 2015
+
+- [A Drone Agent to Support a Clean Environment]() by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, and Morten Fjeld ın HAI
+- [Jogging with a Quadcopter]() by Florian 'Floyd' Mueller and Matthew Muirhead in CHI
+- [Exploring Interaction Modalities for a Selfie Drone] by Chien-Fang Chen, Kang-Ping Liu, and Neng-Hao Yu in SIGGRAPH Asia
+- [Drone & Me: An Exploration Into Natural Human-Drone Interaction]() by Jessica R. Chauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in UbiComp
+- [DroneNavigator: Using Drones for Navigating Visually Impaired Persons]() by Mauro Avila, Markus Funk, and Niels Henze in ASSETS
+
+
+### 2016
+
+### 2017
+
+### 2018
