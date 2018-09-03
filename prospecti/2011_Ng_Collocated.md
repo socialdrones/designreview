@@ -2,11 +2,11 @@
 
 *by Wai Shan (Florence) Ng and Ehud Sharlin, in IEEE RO-MAN 2011*
 
-**(1) What are the core research questions investigatedthrough empirical studies?**
+#### (1) What are the core research questions investigatedthrough empirical studies?
 
 User sentiment towards gesture-based high-level drone control using a designed gesture vocabulary for the tasks *takeoff/land*, *raise/lower*, *hover* (*stop/come/circle*), and *find*.
 
-**(2) What empirical methods have been used to study the research questions?**
+### (2) What empirical methods have been used to study the research questions?
 
 1. Design study with 3 participants imagining gesturing to a drone.
 2. Informed WoZ study with 2 participants - one adult and one child
