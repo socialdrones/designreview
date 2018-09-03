@@ -24,7 +24,7 @@ To consolidate this body of research, we first curated a corpus of works by firs
 
 - [A Drone Agent to Support a Clean Environment]() by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, and Morten Fjeld ın HAI
 - [Jogging with a Quadcopter]() by Florian 'Floyd' Mueller and Matthew Muirhead in CHI
-- [Exploring Interaction Modalities for a Selfie Drone] by Chien-Fang Chen, Kang-Ping Liu, and Neng-Hao Yu in SIGGRAPH Asia
+- [Exploring Interaction Modalities for a Selfie Drone]() by Chien-Fang Chen, Kang-Ping Liu, and Neng-Hao Yu in SIGGRAPH Asia
 - [Drone & Me: An Exploration Into Natural Human-Drone Interaction]() by Jessica R. Chauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in UbiComp
 - [DroneNavigator: Using Drones for Navigating Visually Impaired Persons]() by Mauro Avila, Markus Funk, and Niels Henze in ASSETS
 
@@ -34,8 +34,24 @@ To consolidate this body of research, we first curated a corpus of works by firs
 - [A Non-grounded and Encountered-type Haptic Display Using a Drone]() by Kotaro Yamaguchi, Ginga Kato, Yoshihiro Kuroda, Kiyoshi Kiyokawa, and Haruo Takemura in SUI
 - [In-Situ-DisplayDrone: Facilitating Co-located Interactive Experiences via A Flying Screen]() by Jürgen Scheible and Markus Funk in PerDis
 - [The Naughty Drone: A Qualitative Research on Drone as Companion Device]() by Hyun Young Kim, Bomyeong Kim, and Jinwoo Kim in IMCOM
-
+- [Elevating Communication, Collaboration, and Shared Experiences in Mobile Video through Drones] by Brennan Jones, Kody Dillman, Richard Tang, Anthony Tang, Ehud Sharlin, Lora Oehlberg, Carman Neustaedter, and Scott Bateman in DIS
+- [Action Elements of Emotional Body Expressions for Flying Robots] by Chie Hieda, Hiroaki Matsuda, Shunsuke Kudoh, and Takashi Suehiro in HRI
+- [Emotion Encoding in Human-Drone Interaction]() by Jessica R. Cauchard, Kevin Y. Zhai, Marco Spadafora, and James A. Landay in HRI
+- [Exploring the Use of a Drone to Guide Blind Runners]() by Majed Al-Zayer, Sam Tregillus, Jiwan Bhandari, Dave Feil-Seifer, and Eelke Folmer in ASSETS
 
 ### 2017
 
+- [Exploring Proxemics in Human-Drone Interaction]() by Alexander Yeh, Photchara Ratsamee, Kiyoshi Kiyokawa, Yuki Uranishi, omohiro Mashita, Haruo Takemura, Morten Fjeld, and Mohammad Obaid in HAI
+- [Towards Supporting Remote Cheering during Running Races with Drone Technology]() by Andrzej Romanowski, Sven Mayer, Lars Lischke, Krzysztof Grudzień, Tomasz Jaworski, Izabela Perenc, Przemysław Kucharski, Mohammad Obaid, Tomasz Kosiński, and Paweł W. Woźniak in CHI EA
+- [Tactile Drones - Providing Immersive Tactile Feedback in Virtual Reality through Quadcopters]() by Pascal Knierim, Thomas Kosch, Valentin Schwind, Markus Funk, Francisco Kiss, Stefan Schneegass, and Niels Henze in CHI EA
+- [Social Drone Companion for the Home Environment: a User-Centric Exploration]() by Kari Daniel Karjalainen, Anna Elisabeth Sofia Romell , Photchara Ratsamee, Asım Evren Yantac, Morten Fjeld, and Mohammad Obaid in HAI
+- [Drone & Wo: Cultural Influences on Human-Drone Interaction Techniques]() by Jane L. E, Ilene L. E, James A. Landay, and Jessica R. Cauchard in CHI
+- [Investigating Drone Motion as Pedestrian Guidance]() by Ashley Colley, Lasse Virtanen, Pascal Knierim, Jonna Häkkilä in MUM
+- ["Spiders in the Sky": User Perceptions of Drones, Privacy, and Security]() by Victoria Chang, Pramod Chundury, and Marshini Chetty in CHI
+- [DroneNavigator: Using Leashed and Free-Floating Quadcopters to Navigate Visually Impaired Travelers]() Mauro Avila Soto, Markus Funk, Matthias Hoppe, Robin Boldt, Katrin Wolf, and Niels Henze in ASSETS
+- [Drone Near Me: Exploring Touch-Based Human-Drone Interaction] by Parastoo Abtahi, David Y. Zhao, Jane L. E, and James A. Landay in IMWUT
+
 ### 2018
+
+- [Communicating Robot Motion Intent with Augmented Reality] Michael Walker, Hooman Hedayati, Jennifer Lee, and Daniel Szafir in HRI
+
