@@ -1,6 +1,6 @@
 # Midair Displays: Exploring the Concept of Free-Floating Public Displays
 
-*by Stefan Schneegass, Florian Alt, Jürgen Scheible, Albrecht Schmidt, and Heifeng Su in ACM CHI EA '14* - [10.1145/2559206.2581190](https://doi.org/10.1145/2559206.2581190)
+*by Stefan Schneegass, Florian Alt, Jürgen Scheible, Albrecht Schmidt, and Heifeng Su in CHI EA '14* - [10.1145/2559206.2581190](https://doi.org/10.1145/2559206.2581190)
 
 ### (1) What are the core research questions investigatedthrough empirical studies?
 
