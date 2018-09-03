@@ -12,7 +12,7 @@ To consolidate this body of research, we first curated a corpus of works by firs
 
 ### 2013
 
-- [Displaydrone: A Flying Robot Based Interactive Display](https://github.com/socialdrones/designreview/blob/master/prospectuses/2013_Scheible_Displaydrone.md) by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in PerDis
+- [Displaydrone: A Flying Robot Based Interactive Display](2013_Scheible_Displaydrone.md) by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in PerDis
 
 ### 2014
 
