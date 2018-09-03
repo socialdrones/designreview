@@ -8,7 +8,7 @@ To consolidate this body of research, we first curated a corpus of works by firs
 
 ### 2011
 
-- [Collocated Interaction with Flying Robots](https://github.com/socialdrones/designreview/blob/master/prospectuses/2011_Ng_Collocated.md) by Wai Shan (Florence) Ng and Ehud Sharlin in RO-MAN
+- [Collocated Interaction with Flying Robots](2011_Ng_Collocated.md) by Wai Shan (Florence) Ng and Ehud Sharlin in RO-MAN
 
 ### 2013
 
@@ -17,8 +17,8 @@ To consolidate this body of research, we first curated a corpus of works by firs
 ### 2014
 
 - [Communication of Intent in Assistive Free Flyers]() by Daniel Szafir, Bilge Mutlu, and Terrence Fong in HRI
-- [Midair Displays: Exploring the Concept of Free-Floating Public Displays](https://github.com/socialdrones/designreview/blob/master/prospectuses/2014_Schneegass_Exploring.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, Albrecht Schmidt, and Heifeng Su ın CHI EA
-- [Midair Displays: Concept and First Experiences with Free-Floating Pervasive Displays](designreview/prospectuses/2014_Schneegass_PerDis.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, and Albrecht Schmidt in PerDis
+- [Midair Displays: Exploring the Concept of Free-Floating Public Displays](2014_Schneegass_Exploring.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, Albrecht Schmidt, and Heifeng Su ın CHI EA
+- [Midair Displays: Concept and First Experiences with Free-Floating Pervasive Displays](2014_Schneegass_PerDis.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, and Albrecht Schmidt in PerDis
 
 ### 2015
 
