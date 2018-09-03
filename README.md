@@ -1,4 +1,4 @@
-# Review: Human Factors in Social Drones
+# Review: Empirical Research on Human Factors in Social Drone Design
 
 The material in this repository is intended to accompany our research paper on "Human Factors in Social Drones," submitted to the 2019 edition of ACM's [CHI Conference on Human Factors in Computing Systems](https://sigchi.org/conferences/conference-history/chi/), where we aim to consolidate the state of the art in design knowledge for autonomous flyers in inhabited environments.
 
