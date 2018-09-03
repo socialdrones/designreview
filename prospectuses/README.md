@@ -44,8 +44,8 @@ For each paper, a short prospectus was written, comprising answers to the questi
 - [A Non-grounded and Encountered-type Haptic Display Using a Drone]() by Kotaro Yamaguchi, Ginga Kato, Yoshihiro Kuroda, Kiyoshi Kiyokawa, and Haruo Takemura in SUI
 - [In-Situ-DisplayDrone: Facilitating Co-located Interactive Experiences via A Flying Screen]() by Jürgen Scheible and Markus Funk in PerDis
 - [The Naughty Drone: A Qualitative Research on Drone as Companion Device]() by Hyun Young Kim, Bomyeong Kim, and Jinwoo Kim in IMCOM
-- [Elevating Communication, Collaboration, and Shared Experiences in Mobile Video through Drones] by Brennan Jones, Kody Dillman, Richard Tang, Anthony Tang, Ehud Sharlin, Lora Oehlberg, Carman Neustaedter, and Scott Bateman in DIS
-- [Action Elements of Emotional Body Expressions for Flying Robots] by Chie Hieda, Hiroaki Matsuda, Shunsuke Kudoh, and Takashi Suehiro in HRI
+- [Elevating Communication, Collaboration, and Shared Experiences in Mobile Video through Drones]() by Brennan Jones, Kody Dillman, Richard Tang, Anthony Tang, Ehud Sharlin, Lora Oehlberg, Carman Neustaedter, and Scott Bateman in DIS
+- [Action Elements of Emotional Body Expressions for Flying Robots]() by Chie Hieda, Hiroaki Matsuda, Shunsuke Kudoh, and Takashi Suehiro in HRI
 - [Emotion Encoding in Human-Drone Interaction]() by Jessica R. Cauchard, Kevin Y. Zhai, Marco Spadafora, and James A. Landay in HRI
 - [Exploring the Use of a Drone to Guide Blind Runners]() by Majed Al-Zayer, Sam Tregillus, Jiwan Bhandari, Dave Feil-Seifer, and Eelke Folmer in ASSETS
 
