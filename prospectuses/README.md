@@ -4,6 +4,18 @@ The relatively recent commodification of drones has motivated and enabled resear
 
 To consolidate this body of research, we first curated a corpus of works by first selecting relevant papers from the first 200 search results each for "social drones" in the [ACM Digital Library](https://dl.acm.org). We screened the results for papers reporting on empirical work, which includes design workshops and design critique sessions. Papers reporting on technical research without covering human factors, design proposals without empirical studies, and works dealing with piloting (i.e. real-time low-level motion control) in lieu of autonomous flight were excluded. This resulted in a selection of 31 papers, and X more were discovered through citation links, resulting in a corpus of X papers. (Subsequent searches in [Google Scholar](https://scholar.google.com) and the [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/) performed after the inclusion of cited papers did not return any additional relevant results.)
 
+Based on an initial reading of the papers, we developed a set of questions that would allow us to characterize the works, so that subsequently we would be able to consolidate and compare findings across studies. These questions were:
+
+\begin{enumerate}
+    \item What are the core research questions investigated through empirical studies?
+    \item What are the study methods used?
+    \item What kind of drone and/or other apparatus was used?
+    \item What results have been obtained from the studies?
+    \item How do the results inform design; i.e. what design implications, lessons, or guidelines have been derived from the results?
+\end{enumerate}
+
+For each paper, a short prospectus was written, comprising answers to the questions above. This directory contains these prospectuses for viewing. Furthermore, we welcome additions and edits from the community.
+
 ## Contents
 
 ### 2011
