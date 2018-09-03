@@ -1,6 +1,6 @@
 # Collocated Interaction with Flying Robots
 
-## by Wai Shan (Florence) Ng and Ehud Sharlin, in IEEE RO-MAN 2011
+*by Wai Shan (Florence) Ng and Ehud Sharlin, in IEEE RO-MAN 2011*
 
 ### (1) What are the core research questions investigatedthrough empirical studies?
 
