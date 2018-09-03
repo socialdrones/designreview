@@ -1,4 +1,4 @@
-# Prospectuses for Research Papers on Social Drone Design
+# Prospectuses for Empirical Research Papers on Social Drone Design
 
 The relatively recent commodification of drones has motivated and enabled researchers to investigate human factors in social drones through empirical studies. These investigations are borne from a continuum of approaches across design and engineering, and accordingly reported in a variety of outlets associated with different interests.
 
