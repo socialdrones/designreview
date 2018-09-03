@@ -49,9 +49,9 @@ To consolidate this body of research, we first curated a corpus of works by firs
 - [Investigating Drone Motion as Pedestrian Guidance]() by Ashley Colley, Lasse Virtanen, Pascal Knierim, Jonna Häkkilä in MUM
 - ["Spiders in the Sky": User Perceptions of Drones, Privacy, and Security]() by Victoria Chang, Pramod Chundury, and Marshini Chetty in CHI
 - [DroneNavigator: Using Leashed and Free-Floating Quadcopters to Navigate Visually Impaired Travelers]() Mauro Avila Soto, Markus Funk, Matthias Hoppe, Robin Boldt, Katrin Wolf, and Niels Henze in ASSETS
-- [Drone Near Me: Exploring Touch-Based Human-Drone Interaction] by Parastoo Abtahi, David Y. Zhao, Jane L. E, and James A. Landay in IMWUT
+- [Drone Near Me: Exploring Touch-Based Human-Drone Interaction]() by Parastoo Abtahi, David Y. Zhao, Jane L. E, and James A. Landay in IMWUT
 
 ### 2018
 
-- [Communicating Robot Motion Intent with Augmented Reality] Michael Walker, Hooman Hedayati, Jennifer Lee, and Daniel Szafir in HRI
-
+- [Communicating Robot Motion Intent with Augmented Reality]() Michael Walker, Hooman Hedayati, Jennifer Lee, and Daniel Szafir in HRI
+- 
