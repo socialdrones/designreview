@@ -6,13 +6,11 @@ To consolidate this body of research, we first curated a corpus of works by firs
 
 Based on an initial reading of the papers, we developed a set of questions that would allow us to characterize the works, so that subsequently we would be able to consolidate and compare findings across studies. These questions were:
 
-\begin{enumerate}
-    \item What are the core research questions investigated through empirical studies?
-    \item What are the study methods used?
-    \item What kind of drone and/or other apparatus was used?
-    \item What results have been obtained from the studies?
-    \item How do the results inform design; i.e. what design implications, lessons, or guidelines have been derived from the results?
-\end{enumerate}
+1. What are the core research questions investigated through empirical studies?
+2. What empirical methods have been used to study the research questions?
+3. What kind of drone and/or other apparatus was used? 
+4. What results have been obtained from the studies?
+5. How do the results inform design; i.e. what design implications, lessons, or guidelines have been derived from the results?
 
 For each paper, a short prospectus was written, comprising answers to the questions above. This directory contains these prospectuses for viewing. Furthermore, we welcome additions and edits from the community.
 
