@@ -10,5 +10,4 @@ Social drones - and more generally, social robots - unavoidably communicate with
 
 ## Contents
 
-- [Prospecti]
-
+- [Prospectuses](prospectuses)
