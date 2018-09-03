@@ -1,4 +1,4 @@
-# Prospecti for Drone Design Research Papers
+# Prospectuses for Drone Design Research Papers
 
 The relatively recent commodification of drones has motivated and enabled researchers to investigate human factors in social drones through empirical studies. These investigations are borne from a continuum of approaches across design and engineering, and accordingly reported in a variety of outlets associated with different interests.
 
@@ -28,8 +28,13 @@ To consolidate this body of research, we first curated a corpus of works by firs
 - [Drone & Me: An Exploration Into Natural Human-Drone Interaction]() by Jessica R. Chauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in UbiComp
 - [DroneNavigator: Using Drones for Navigating Visually Impaired Persons]() by Mauro Avila, Markus Funk, and Niels Henze in ASSETS
 
-
 ### 2016
+
+- [Boxing against drones: Drones in sports education]() by Sergej G. Zwaan and Emilia I. Barakova in IDC
+- [A Non-grounded and Encountered-type Haptic Display Using a Drone]() by Kotaro Yamaguchi, Ginga Kato, Yoshihiro Kuroda, Kiyoshi Kiyokawa, and Haruo Takemura in SUI
+- [In-Situ-DisplayDrone: Facilitating Co-located Interactive Experiences via A Flying Screen]() by Jürgen Scheible and Markus Funk in PerDis
+- [The Naughty Drone: A Qualitative Research on Drone as Companion Device]() by Hyun Young Kim, Bomyeong Kim, and Jinwoo Kim in IMCOM
+
 
 ### 2017
 
