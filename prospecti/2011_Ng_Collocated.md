@@ -23,7 +23,7 @@ Parrot AR Drone.
 - People instinctively recruit both arms or perform gestures larger/faster to demand a task to be performed faster or more powerfully
 - Using a prop (a raquet) is not preferred, compared to free-hand gesturing
 
-### 5) How do the results inform design?
+### (5) How do the results inform design?
 
 - Using gestures is more natural and less cognitively demanding for casual/novice users, compared to using a controller which demands attention switching between drone and controller
 - Using gestures to control a drone can be used to induce attachment / socialization, as if it were a pet
