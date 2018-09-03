@@ -2,6 +2,8 @@
 
 *by Wai Shan (Florence) Ng and Ehud Sharlin, in IEEE RO-MAN 2011*
 
+https://doi.org/10.1109/ROMAN.2011.6005280
+
 ### (1) What are the core research questions investigatedthrough empirical studies?
 
 User sentiment towards gesture-based high-level drone control using a designed gesture vocabulary for the tasks *takeoff/land*, *raise/lower*, *hover* (*stop/come/circle*), and *find*.
