@@ -1,6 +1,6 @@
 # Displaydrone: A Flying Robot Based Interactive Display
 
-*by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su, in ACM PerDis '13* - [10.1145/2491568.2491580](https://doi.org/10.1145/2491568.2491580)
+*by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su, in PerDis '13* - [10.1145/2491568.2491580](https://doi.org/10.1145/2491568.2491580)
 
 ### (1) What are the core research questions investigatedthrough empirical studies?
 
