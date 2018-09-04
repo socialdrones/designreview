@@ -19,26 +19,27 @@ For each paper, a short prospectus was written, comprising answers to the questi
 (The list below is sorted based on year, venue, and first author name, respectively.)
 
 ### 2011
-
-- [Collocated Interaction with Flying Robots](2011_Ng_Collocated.md) by Wai Shan (Florence) Ng and Ehud Sharlin in *RO-MAN*
+<ol>
+<li>[Collocated Interaction with Flying Robots](2011_Ng_Collocated.md) by Wai Shan (Florence) Ng and Ehud Sharlin in *RO-MAN*</li>
+</ol>
 
 ### 2013
 
-- [Displaydrone: A Flying Robot Based Interactive Display](2013_Scheible_Displaydrone.md) by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in *PerDis*
+1. [Displaydrone: A Flying Robot Based Interactive Display](2013_Scheible_Displaydrone.md) by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in *PerDis*
 
 ### 2014
 
-- [Midair Displays: Exploring the Concept of Free-Floating Public Displays](2014_Schneegass_Exploring.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, Albrecht Schmidt, and Heifeng Su in *CHI EA*
-- [Communication of Intent in Assistive Free Flyers]() by Daniel Szafir, Bilge Mutlu, and Terrence Fong in *HRI*
-- [Midair Displays: Concept and First Experiences with Free-Floating Pervasive Displays](2014_Schneegass_PerDis.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, and Albrecht Schmidt in *PerDis*
+1. [Midair Displays: Exploring the Concept of Free-Floating Public Displays](2014_Schneegass_Exploring.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, Albrecht Schmidt, and Heifeng Su in *CHI EA*
+2. [Communication of Intent in Assistive Free Flyers]() by Daniel Szafir, Bilge Mutlu, and Terrence Fong in *HRI*
+3. [Midair Displays: Concept and First Experiences with Free-Floating Pervasive Displays](2014_Schneegass_PerDis.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, and Albrecht Schmidt in *PerDis*
 
 ### 2015
 
-- [DroneNavigator: Using Drones for Navigating Visually Impaired Persons]() by Mauro Avila, Markus Funk, and Niels Henze in *ASSETS*
-- [Jogging with a Quadcopter]() by Florian 'Floyd' Mueller and Matthew Muirhead in *CHI*
+1. [DroneNavigator: Using Drones for Navigating Visually Impaired Persons]() by Mauro Avila, Markus Funk, and Niels Henze in *ASSETS*
+2. [Jogging with a Quadcopter]() by Florian 'Floyd' Mueller and Matthew Muirhead in *CHI*
 - [A Drone Agent to Support a Clean Environment]() by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, and Morten Fjeld in *HAI*
-- [Exploring Interaction Modalities for a Selfie Drone]() by Chien-Fang Chen, Kang-Ping Liu, and Neng-Hao Yu in *SIGGRAPH Asia*
-- [Drone & Me: An Exploration Into Natural Human-Drone Interaction]() by Jessica R. Chauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in *UbiComp*
+3. [Exploring Interaction Modalities for a Selfie Drone]() by Chien-Fang Chen, Kang-Ping Liu, and Neng-Hao Yu in *SIGGRAPH Asia*
+4. [Drone & Me: An Exploration Into Natural Human-Drone Interaction]() by Jessica R. Chauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in *UbiComp*
 
 ### 2016
 
@@ -65,5 +66,12 @@ For each paper, a short prospectus was written, comprising answers to the questi
 
 ### 2018
 
+- [Knowing You, Seeing Me: Investigating User Preferences in Drone-Human Acknowledgement] by Walther Jensen, Simon Hansen, and Hendrik Knoche in *CHI*
+- [Quadcopter-Projected In-Situ Navigation Cues for Improved Location Awareness]() by Pascal Knierim, Steffen Maurer, Katrin Wolf, and Markus Funk in *CHI*
+- [Privacy and Fear in the Drone Era: Preserving Privacy Expectations Through Technology]() by Judith Uchidiuno, Justin D. Weisz, and Justin Manweller in *CHI EA*
+- [Human-Drone Interaction: Drone Delivery & Services for Social Events]() by Haodan Tan, Jangwon Lee, and Gege Gao in *DIS*
+- [Aeroquake: Drone Augmented Dance]() by Heesoon Kim and James A. Landay in *DIS*
+- [GazeDrone: Mobile Eye-Based Interaction in Public Space Without Augmenting the User] by Mohamed Khamis , Anna Kienle, Florian Alt, and Andreas Bulling in *DroNet*
+- [Social Proxemics of Human-Drone Interaction: Flying Altitude and Size] by Jeonghye Han and llhan Bae in *HRI*
 - [Communicating Robot Motion Intent with Augmented Reality]() Michael Walker, Hooman Hedayati, Jennifer Lee, and Daniel Szafir in *HRI*
-- 
+- [FlyMap: Interacting with Maps Projected from a Drone] by Anke M. Brock, Julia Chatain, Michelle Park, Tommy Fang, Martin Hachet, James A. Landay, and Jessica R. Cauchard in *PerDis*
