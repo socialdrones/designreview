@@ -75,3 +75,4 @@ For each paper, a short prospectus was written, comprising answers to the questi
 7. [Social Proxemics of Human-Drone Interaction: Flying Altitude and Size]() by Jeonghye Han and llhan Bae in *HRI*
 8. [Communicating Robot Motion Intent with Augmented Reality]() Michael Walker, Hooman Hedayati, Jennifer Lee, and Daniel Szafir in *HRI*
 9. [FlyMap: Interacting with Maps Projected from a Drone]() by Anke M. Brock, Julia Chatain, Michelle Park, Tommy Fang, Martin Hachet, James A. Landay, and Jessica R. Cauchard in *PerDis*
+10. [Flyables: Exploring 3D Interaction Spaces for Levitating Tangibles]() by Pascal Knierim, Alexander Achberger, Thomas Kosch, and Markus Funk in *TEI*
