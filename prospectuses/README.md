@@ -38,7 +38,7 @@ For each paper, a short prospectus was written, comprising answers to the questi
 2. [Jogging with a Quadcopter]() by Florian 'Floyd' Mueller and Matthew Muirhead in *CHI*
 3. [A Drone Agent to Support a Clean Environment]() by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, and Morten Fjeld in *HAI*
 4. [Exploring Interaction Modalities for a Selfie Drone]() by Chien-Fang Chen, Kang-Ping Liu, and Neng-Hao Yu in *SIGGRAPH Asia*
-5. [Drone & Me: An Exploration Into Natural Human-Drone Interaction]() by Jessica R. Chauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in *UbiComp*
+5. [Drone & Me: An Exploration Into Natural Human-Drone Interaction]() by Jessica R. Cauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in *UbiComp*
 
 ### 2016
 
