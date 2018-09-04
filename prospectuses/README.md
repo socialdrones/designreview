@@ -65,7 +65,7 @@ For each paper, a short prospectus was written, comprising answers to the questi
 
 ### 2018
 
-1. [Knowing You, Seeing Me: Investigating User Preferences in Drone-Human Acknowledgement] by Walther Jensen, Simon Hansen, and Hendrik Knoche in *CHI*
+1. [Knowing You, Seeing Me: Investigating User Preferences in Drone-Human Acknowledgement]() by Walther Jensen, Simon Hansen, and Hendrik Knoche in *CHI*
 2. [Quadcopter-Projected In-Situ Navigation Cues for Improved Location Awareness]() by Pascal Knierim, Steffen Maurer, Katrin Wolf, and Markus Funk in *CHI*
 3. [Privacy and Fear in the Drone Era: Preserving Privacy Expectations Through Technology]() by Judith Uchidiuno, Justin D. Weisz, and Justin Manweller in *CHI EA*
 4. [Human-Drone Interaction: Drone Delivery & Services for Social Events]() by Haodan Tan, Jangwon Lee, and Gege Gao in *DIS*
