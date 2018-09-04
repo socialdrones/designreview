@@ -71,7 +71,7 @@ For each paper, a short prospectus was written, comprising answers to the questi
 3. [Privacy and Fear in the Drone Era: Preserving Privacy Expectations Through Technology]() by Judith Uchidiuno, Justin D. Weisz, and Justin Manweller in *CHI EA*
 4. [Human-Drone Interaction: Drone Delivery & Services for Social Events]() by Haodan Tan, Jangwon Lee, and Gege Gao in *DIS*
 5. [Aeroquake: Drone Augmented Dance]() by Heesoon Kim and James A. Landay in *DIS*
-6. [GazeDrone: Mobile Eye-Based Interaction in Public Space Without Augmenting the User]() by Mohamed Khamis , Anna Kienle, Florian Alt, and Andreas Bulling in *DroNet*
+6. [GazeDrone: Mobile Eye-Based Interaction in Public Space Without Augmenting the User]() by Mohamed Khamis, Anna Kienle, Florian Alt, and Andreas Bulling in *DroNet*
 7. [Social Proxemics of Human-Drone Interaction: Flying Altitude and Size]() by Jeonghye Han and llhan Bae in *HRI*
 8. [Communicating Robot Motion Intent with Augmented Reality]() Michael Walker, Hooman Hedayati, Jennifer Lee, and Daniel Szafir in *HRI*
 9. [FlyMap: Interacting with Maps Projected from a Drone]() by Anke M. Brock, Julia Chatain, Michelle Park, Tommy Fang, Martin Hachet, James A. Landay, and Jessica R. Cauchard in *PerDis*
