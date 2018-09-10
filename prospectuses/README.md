@@ -34,15 +34,15 @@ For each paper, a short prospectus was written, comprising answers to the questi
 
 ### 2015
 
-1. [DroneNavigator: Using Drones for Navigating Visually Impaired Persons]() by Mauro Avila, Markus Funk, and Niels Henze in *ASSETS*
-2. [Jogging with a Quadcopter]() by Florian 'Floyd' Mueller and Matthew Muirhead in *CHI*
-3. [A Drone Agent to Support a Clean Environment]() by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, and Morten Fjeld in *HAI*
-4. [Exploring Interaction Modalities for a Selfie Drone]() by Chien-Fang Chen, Kang-Ping Liu, and Neng-Hao Yu in *SIGGRAPH Asia*
-5. [Drone & Me: An Exploration Into Natural Human-Drone Interaction]() by Jessica R. Cauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in *UbiComp*
+1. [DroneNavigator: Using Drones for Navigating Visually Impaired Persons](2015_Avila_DroneNavigator.md) by Mauro Avila, Markus Funk, and Niels Henze in *ASSETS*
+2. [Jogging with a Quadcopter](2015_Mueller_Jogging.md) by Florian 'Floyd' Mueller and Matthew Muirhead in *CHI*
+3. [A Drone Agent to Support a Clean Environment](2015_Obaid_Environment.md) by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, and Morten Fjeld in *HAI*
+4. [Exploring Interaction Modalities for a Selfie Drone](2015_Chen_Selfie.md) by Chien-Fang Chen, Kang-Ping Liu, and Neng-Hao Yu in *SIGGRAPH Asia*
+5. [Drone & Me: An Exploration Into Natural Human-Drone Interaction](2015_Cauchard_DroneAndMe.md) by Jessica R. Cauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in *UbiComp*
 
 ### 2016
 
-1. [How Would You Gesture Navigate a Drone? A User-Centered Approach to Control a Drone]() by Mohammad Obaid, Felix Kistler, Gabriele Kasparaviciute, Asım Evren Yantaç, and Morten Fjeld in *Academic Mindtrek*
+1. [How Would You Gesture Navigate a Drone? A User-Centered Approach to Control a Drone](2016_Obaid_Gesture.md) by Mohammad Obaid, Felix Kistler, Gabriele Kasparaviciute, Asım Evren Yantaç, and Morten Fjeld in *Academic Mindtrek*
 2. [Exploring the Use of a Drone to Guide Blind Runners]() by Majed Al-Zayer, Sam Tregillus, Jiwan Bhandari, Dave Feil-Seifer, and Eelke Folmer in *ASSETS*
 3. [Elevating Communication, Collaboration, and Shared Experiences in Mobile Video through Drones]() by Brennan Jones, Kody Dillman, Richard Tang, Anthony Tang, Ehud Sharlin, Lora Oehlberg, Carman Neustaedter, and Scott Bateman in *DIS*
 4. [Emotion Encoding in Human-Drone Interaction]() by Jessica R. Cauchard, Kevin Y. Zhai, Marco Spadafora, and James A. Landay in *HRI*
