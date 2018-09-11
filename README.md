@@ -13,3 +13,7 @@ Social drones - and more generally, social robots - unavoidably communicate with
 ### [Prospectuses for Empirical Research Papers on Social Drone Design](prospectuses)
 
 We produced prospectuses based on 5 key questions for research papers presenting empirical design studies on social drones, in order to consolidate and compare findings across studies.
+
+### [Consolidating Design Knowledge on Social Dones](design-knowledge)
+
+We characterized the findings from research papers based on a framework relating *human-centered parameters* and *product design parameters*, which allows us to consoliate and compare design knowledge created through different studies. 
