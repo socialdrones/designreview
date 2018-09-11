@@ -29,7 +29,7 @@ For each paper, a short prospectus was written, comprising answers to the questi
 ### 2014
 
 1. [Midair Displays: Exploring the Concept of Free-Floating Public Displays](2014_Schneegass_Exploring.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, Albrecht Schmidt, and Heifeng Su in *CHI EA*
-2. [Communication of Intent in Assistive Free Flyers]() by Daniel Szafir, Bilge Mutlu, and Terrence Fong in *HRI*
+2. [Communication of Intent in Assistive Free Flyers](2014_Szafir_Intent.md) by Daniel Szafir, Bilge Mutlu, and Terrence Fong in *HRI*
 3. [Midair Displays: Concept and First Experiences with Free-Floating Pervasive Displays](2014_Schneegass_PerDis.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, and Albrecht Schmidt in *PerDis*
 
 ### 2015
