@@ -1,6 +1,6 @@
 # Jogging with a Quadcopter
 
-*by Florian 'Floyd' Mueller and Matthew Muirhead, in CHI 2011* - [10.1145/2702123.2702472](https://doi.org/10.1145/2702123.2702472)
+*by Florian 'Floyd' Mueller and Matthew Muirhead, in CHI 2015* - [10.1145/2702123.2702472](https://doi.org/10.1145/2702123.2702472)
 
 ### 1) What are the core research questions investigated through empirical studies?
 
