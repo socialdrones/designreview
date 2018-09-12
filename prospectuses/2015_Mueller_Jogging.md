@@ -37,4 +37,10 @@ Custom-built quadcopter.
   - Perceived Control
   - Focus an
   - Bodily Interaction.
+- 5 design tactics can guide designers navigate this design space:
+  1. Support “Contending for Space” to facilitate movement variety
+  2. Use robot to direct focus away from discomfort of exercise
+  3. Utilize, not fight the robot’s secondary movements
+  4. Utilize the shared space to support movement We
+  5. Exploit mutual exertion investment
 
