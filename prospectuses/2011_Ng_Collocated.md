@@ -17,16 +17,16 @@ Parrot AR Drone.
 
 ### 4) What results have been obtained from the studies?
 
-- Much disagreement between participants as to the nature and parameters (size of motion, speed…) of natural/intuitive gestures
-- Using large gestures as the sole interaction modality quickly leads to fatigue
-- People speak to the drone while gesturing, even though not instructed to do so; addressing it like a pet, even “show concern for its wellbeing” 
-- People instinctively recruit both arms or perform gestures larger/faster to demand a task to be performed faster or more powerfully
-- Using a prop (a raquet) is not preferred, compared to free-hand gesturing
+- Much disagreement between participants as to the nature and parameters (size of motion, speed…) of natural/intuitive gestures.
+- Using large gestures as the sole interaction modality quickly leads to fatigue.
+- People speak to the drone while gesturing, even though not instructed to do so; addressing it like a pet, even “show concern for its wellbeing.” 
+- People instinctively recruit both arms or perform gestures larger/faster to demand a task to be performed faster or more powerfully.
+- Using a prop (a raquet) is not preferred, compared to free-hand gesturing.
 
 ### 5) How do the results inform design?
 
-- Using gestures is more natural and less cognitively demanding for casual/novice users, compared to using a controller which demands attention switching between drone and controller
-- Using gestures to control a drone can be used to induce attachment / socialization, as if it were a pet
-- Free hand gestures are preferred over those involving props
-- Gesture + voice is preferred over gesture alone
-- Gesture speed/magnitude is expected to correlate with drone behavior
+- Using gestures is more natural and less cognitively demanding for casual/novice users, compared to using a controller which demands attention switching between drone and controller.
+- Using gestures to control a drone can be used to induce attachment / socialization, as if it were a pet.
+- Free hand gestures are preferred over those involving props.
+- Gesture + voice is preferred over gesture alone.
+- Gesture speed/magnitude is expected to correlate with drone behavior.
