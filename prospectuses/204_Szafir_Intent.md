@@ -9,7 +9,7 @@
 ### 2) What empirical methods have been used to study the research questions?
 
 1. Formative, exploratory online (MTurk) survey with 85 participants viewing 3D animated videos of drone flight; with response time, accuracy of drone intent guess, and a composite score of both as measures.
-2. WoZ study with 24 participants observing motion of a embodied, colocated drone between targets.
+2. WoZ study with 24 participants observing motion of a embodied, colocated drone between targets on a wall.
 
 ### 3) What kind of drone and/or other apparatus was used?
 
@@ -23,12 +23,12 @@ Parrot AR Drone.
 - Study 1, *Response Time*: Anticipation significantly lowered composite scores for several primitives; however, as these negative effects were not reflected in the accuracy measure, this is believed to be due to slower response times caused by the increased trajectory lengths from adding anticipatory motions.
 - Study 2: Participants correctly perceived the drone's use of arcing, easing, and anticipation.
 - Study 2: Participants significantly preferred the flight paths that used the manipulations.
+- Study 2: Participants found the manipulated flight paths to be more natural, smooth, elegant, graceful, and intuitive.
+- Study 2: Participants felt that the drone using manipulated flight paths is more safe and in control.
 
-// FIXME
 
 ### 5) How do the results inform design?
 
 - Smooth velocities may be particularly important when closely interacting with users, for intuitive comprehension of drone intent.
-- Arcing may effectively signal that an AFF will not approach or collide with a user in a manner similar to hallway encounters with ground robots
-
-// FIXME
+- Arcing may effectively signal that an AFF will not approach or collide with a user or other objects, hance inspiring a perception of safety and stability / being in control.
+- Intentful design of flight motions is effective in inspiring positive user sentiment towards using and being with a drone.
