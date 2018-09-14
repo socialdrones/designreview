@@ -17,6 +17,7 @@ Parrot Bebop drone, helmet-mounted camera.
 ### 4) What results have been obtained from the studies?
 
 - Blind invididuals can accurately localize a drone by the sound of its propellers.
+- Blind participants were more successful in following a specific path when guided by a drone, compared to doing it alone.
 - Participants felt comfortable and confidents in their ability to localize and follow the drone at a walking pace, and executed the tasks successfully.
 - Participants were not confident in their ability to localize and follow the drone at a running pace, and in the drone's ability in assisting them in physical exercise.
 - Results did not change when the distance between the drone and the participant was changed between 3m and 4m.
