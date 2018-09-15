@@ -9,7 +9,7 @@
 ### 2) What empirical methods have been used to study the research questions?
 
 1. Formative, exploratory online (MTurk) survey with 85 participants viewing 3D animated videos of drone flight; with response time, accuracy of drone intent guess, and a composite score of both as measures.
-2. WoZ study with 24 participants observing motion of a embodied, colocated drone between targets on a wall.
+2. Study with 24 participants observing motion of a embodied, colocated drone between targets on a wall.
 
 ### 3) What kind of drone and/or other apparatus was used?
 
