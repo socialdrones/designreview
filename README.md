@@ -17,3 +17,9 @@ We produced prospectuses based on 5 key questions for research papers presenting
 ### [Consolidating Design Knowledge on Social Dones](design-knowledge)
 
 We characterized the findings from research papers based on a framework relating *human-centered parameters* and *product design parameters*, which allows us to consoliate and compare design knowledge created through different studies. 
+
+## Contributing
+
+Our intention is for this repository to serve as a living resource, as well as a meeting point, for a whole community of researchers and designers dealing with social drones. We welcome corrections, additions, suggestions, and discussions.
+
+Any pull requeests with modifications to the content, as well as any suggestions or questions submitted through [issues](https://github.com/socialdrones/designreview/issues) will be duly reviewed and responded to.
