@@ -54,7 +54,7 @@ For each paper, a short prospectus was written, comprising answers to the questi
 
 ### 2017
 
-1. [DroneNavigator: Using Leashed and Free-Floating Quadcopters to Navigate Visually Impaired Travelers]() Mauro Avila Soto, Markus Funk, Matthias Hoppe, Robin Boldt, Katrin Wolf, and Niels Henze in *ASSETS*
+1. [DroneNavigator: Using Leashed and Free-Floating Quadcopters to Navigate Visually Impaired Travelers]() by Mauro Avila Soto, Markus Funk, Matthias Hoppe, Robin Boldt, Katrin Wolf, and Niels Henze in *ASSETS*
 2. ["Spiders in the Sky": User Perceptions of Drones, Privacy, and Security]() by Victoria Chang, Pramod Chundury, and Marshini Chetty in *CHI*
 3. [Drone & Wo: Cultural Influences on Human-Drone Interaction Techniques]() by Jane L. E, Ilene L. E, James A. Landay, and Jessica R. Cauchard in *CHI*
 4. [Tactile Drones - Providing Immersive Tactile Feedback in Virtual Reality through Quadcopters]() by Pascal Knierim, Thomas Kosch, Valentin Schwind, Markus Funk, Francisco Kiss, Stefan Schneegass, and Niels Henze in *CHI EA*
