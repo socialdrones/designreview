@@ -1,6 +1,6 @@
 # Spiders in the Sky: User Perceptions of Drones, Privacy, and Security
 
-*by Victoria Chang, Pramod Chundury, Marshini Chetty, in  CHI'17* - [10.1145/3025453.3025632](https://doi.org/10.1145/3025453.3025632)
+*by Victoria Chang, Pramod Chundury, Marshini Chetty, in  CHI '17* - [10.1145/3025453.3025632](https://doi.org/10.1145/3025453.3025632)
 
 ### 1) What are the core research questions investigated through empirical studies?
 
