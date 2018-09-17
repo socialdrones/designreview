@@ -35,3 +35,7 @@ How do users feel drones affect their personal privacy and security expectations
 - Geo-fencing could be used to prevent drones from getting too close to places such as schools, government buildings, landmarks, or wildlife areas. 
 - One possibility for future work would be to explore how drones could operate in designated spaces or drone “highways”. 
 - Drone designs should explore the use of non-visual cues and recording feedback to enhance users’ privacy and security. 
+- We suggest that drone designers carefully consider the use of colors, logos, and decorations to make drones “friendly”, or “unfriendly” in cases where it is necessary for people to keep their distance from certain drones. 
+- Drone sizes could be balanced to ensure that they are not perceived as too stealthy or concealing dangerous items. 
+- To help protect wildlife, we also suggest that drones could be designed with visual or audio animal repellents. 
+
