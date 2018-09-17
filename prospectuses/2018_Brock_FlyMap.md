@@ -1,7 +1,6 @@
 # FlyMap: Interacting with Maps Projected from a Drone
 
-*by Anke M. Brock, 	Julia Chatain, Michelle Park, Tommy Fang, Martin Hachet, 
-James A. Landay, 	Jessica R. Cauchard, in PerDis'18* - [10.1145/3205873.3205877](https://doi.org/10.1145/3205873.3205877)
+*by Anke M. Brock, 	Julia Chatain, Michelle Park, Tommy Fang, Martin Hachet, James A. Landay, 	Jessica R. Cauchard, in PerDis'18* - [10.1145/3205873.3205877](https://doi.org/10.1145/3205873.3205877)
 
 ### 1) What are the core research questions investigated through empirical studies?
 
