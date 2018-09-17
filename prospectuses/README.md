@@ -58,11 +58,10 @@ For each paper, a short prospectus was written, comprising answers to the questi
 1. [DroneNavigator: Using Leashed and Free-Floating Quadcopters to Navigate Visually Impaired Travelers]() by Mauro Avila Soto, Markus Funk, Matthias Hoppe, Robin Boldt, Katrin Wolf, and Niels Henze in *ASSETS*
 2. ["Spiders in the Sky": User Perceptions of Drones, Privacy, and Security]() by Victoria Chang, Pramod Chundury, and Marshini Chetty in *CHI*
 3. [Drone & Wo: Cultural Influences on Human-Drone Interaction Techniques]() by Jane L. E, Ilene L. E, James A. Landay, and Jessica R. Cauchard in *CHI*
-4. [Towards Supporting Remote Cheering during Running Races with Drone Technology]() by Andrzej Romanowski, Sven Mayer, Lars Lischke, Krzysztof Grudzień, Tomasz Jaworski, Izabela Perenc, Przemysław Kucharski, Mohammad Obaid, Tomasz Kosiński, and Paweł W. Woźniak in *CHI EA*
-5. [Social Drone Companion for the Home Environment: a User-Centric Exploration]() by Kari Daniel Karjalainen, Anna Elisabeth Sofia Romell , Photchara Ratsamee, Asım Evren Yantac, Morten Fjeld, and Mohammad Obaid in *HAI*
-6. [Exploring Proxemics in Human-Drone Interaction]() by Alexander Yeh, Photchara Ratsamee, Kiyoshi Kiyokawa, Yuki Uranishi, omohiro Mashita, Haruo Takemura, Morten Fjeld, and Mohammad Obaid in *HAI*
-7. [Drone Near Me: Exploring Touch-Based Human-Drone Interaction]() by Parastoo Abtahi, David Y. Zhao, Jane L. E, and James A. Landay in *IMWUT*
-8. [Investigating Drone Motion as Pedestrian Guidance]() by Ashley Colley, Lasse Virtanen, Pascal Knierim, Jonna Häkkilä in *MUM*
+4. [Social Drone Companion for the Home Environment: a User-Centric Exploration]() by Kari Daniel Karjalainen, Anna Elisabeth Sofia Romell , Photchara Ratsamee, Asım Evren Yantac, Morten Fjeld, and Mohammad Obaid in *HAI*
+5. [Exploring Proxemics in Human-Drone Interaction]() by Alexander Yeh, Photchara Ratsamee, Kiyoshi Kiyokawa, Yuki Uranishi, omohiro Mashita, Haruo Takemura, Morten Fjeld, and Mohammad Obaid in *HAI*
+6. [Drone Near Me: Exploring Touch-Based Human-Drone Interaction]() by Parastoo Abtahi, David Y. Zhao, Jane L. E, and James A. Landay in *IMWUT*
+7. [Investigating Drone Motion as Pedestrian Guidance]() by Ashley Colley, Lasse Virtanen, Pascal Knierim, Jonna Häkkilä in *MUM*
 
 ### 2018
 
