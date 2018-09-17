@@ -37,8 +37,9 @@ For each paper, a short prospectus was written, comprising answers to the questi
 1. [DroneNavigator: Using Drones for Navigating Visually Impaired Persons](2015_Avila_DroneNavigator.md) by Mauro Avila, Markus Funk, and Niels Henze in *ASSETS*
 2. [Jogging with a Quadcopter](2015_Mueller_Jogging.md) by Florian 'Floyd' Mueller and Matthew Muirhead in *CHI*
 3. [A Drone Agent to Support a Clean Environment](2015_Obaid_Environment.md) by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, and Morten Fjeld in *HAI*
-4. [Exploring Interaction Modalities for a Selfie Drone](2015_Chen_Selfie.md) by Chien-Fang Chen, Kang-Ping Liu, and Neng-Hao Yu in *SIGGRAPH Asia*
-5. [Drone & Me: An Exploration Into Natural Human-Drone Interaction](2015_Cauchard_DroneAndMe.md) by Jessica R. Cauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in *UbiComp*
+4. [Communicating Directionality in Flying Robots]() by Daniel Szafir, Bilge Mutlu, and Terry Fong in *HRI*
+5. [Exploring Interaction Modalities for a Selfie Drone](2015_Chen_Selfie.md) by Chien-Fang Chen, Kang-Ping Liu, and Neng-Hao Yu in *SIGGRAPH Asia*
+6. [Drone & Me: An Exploration Into Natural Human-Drone Interaction](2015_Cauchard_DroneAndMe.md) by Jessica R. Cauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in *UbiComp*
 
 ### 2016
 
