@@ -29,6 +29,6 @@ Which human-drone interaction modalities are preferred by users?
 
 - For drag interactions, use the defined interaction space for standing users.
 - Tangible should idle at an altitude between elbow and breast (140 cm) to enable a comfortable use.
-- The haptic feedback was not sufficient for draw output modality.
+- The haptic feedback should be sufficient for draw output modality.
 - The size of the cage should consist of a size between 10 cm×10 cm and 12 cm×12 cm. 
 - Quadcopter frames should enclose levitating tangibles.
