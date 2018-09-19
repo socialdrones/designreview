@@ -1,4 +1,4 @@
-# A Drone Agent to Support a Clean Environment Mohammad
+# A Drone Agent to Support a Clean Environment
 
 *by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, Morten Fjeld* - [10.1145/2814940.2814947](https://doi.org/10.1145/2814940.2814947)
 
