@@ -1,6 +1,6 @@
 # Intuitive Comprehension
 
-- To what degree are participants able to interpret intentions or messages that the drone is trying to convey via the interaction design under investigation, without extensive documentation or explanation?
+To what degree are participants able to interpret intentions or messages that the drone is trying to convey via the interaction design under investigation, without extensive documentation or explanation?
 
 1. [Daedalus: A sUAV for Human-Robot Interaction](2014_Arroyo_Daedalus.md) by Dante Arroyo, Cesar Lucho, Julissa Roncal, and Francisco Cuellar in *HRI*
 - Movements without propeller noise tended to generate positive emotions, while movements with operating propellers evoked the opposite.
