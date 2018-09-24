@@ -1,4 +1,4 @@
-#Intuitive Comprehension
+# Intuitive Comprehension
 
 - To what degree are participants able to interpret intentions or messages that the drone is trying to convey via the interaction design under investigation, without extensive documentation or explanation?
 
