@@ -1,4 +1,6 @@
-#Perceived Social Role
+# Perceived Social Role
+
+What kinds of existing conventions—e.g. privileges, re-sponsibilities, expectations—around social roles assignedto living beings are relevant for drone behavior?
 
 1. [Collocated Interaction with Flying Robots](2011_Ng_Collocated.md) by Wai Shan (Florence) Ng and Ehud Sharlin in *RO-MAN*
 - Using gestures to control a drone can be used to induce attachment / socialization, as if it were a pet
