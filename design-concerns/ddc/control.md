@@ -1,4 +1,4 @@
-# Control
+# Control Methods
 
 1. [Collocated Interaction with Flying Robots](2011_Ng_Collocated.md) by Wai Shan (Florence) Ng and Ehud Sharlin in *RO-MAN*
 - Using gestures is more natural and less cognitively demanding for casual/novice users, compared to using a controller which demands attention switching between drone and controller.
