@@ -1,28 +1,28 @@
 # Sound
 
-1. Scheible et al. 2013
+1. [Displaydrone: A Flying Robot Based Interactive Display](2013_Scheible_Displaydrone.md) by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in *PerDis*
 - Very attention-grabbing: as a flying object, noise source, and light source
 
-2. Arroyo et al. 2014
+2. [Daedalus: A sUAV for Human-Robot Interaction](2014_Arroyo_Daedalus.md) by Dante Arroyo, Cesar Lucho, Julissa Roncal, and Francisco Cuellar in *HRI*
 - Movements without propeller noise tended to generate positive emotions, while movements with operating propellers evoked the opposite.
 
-3. Avila, Funk, and Henze 2015
+3. [DroneNavigator: Using Drones for Navigating Visually Impaired Persons](2015_Avila_DroneNavigator.md) by Mauro Avila, Markus Funk, and Niels Henze in *ASSETS*
 - The sound of the drone's propellers itself is sufficient to locate the drone in the absence of sight, with a precision that allows for targets as small as 50cm.
 
-4 .Cauchard et al. 2015
+4. [Drone & Me: An Exploration Into Natural Human-Drone Interaction](2015_Cauchard_DroneAndMe.md) by Jessica R. Cauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in *UbiComp*
 - Noise and airflow around the drone led to discomfort.
 
-5. Obaid et al. 2015
+5. [A Drone Agent to Support a Clean Environment](2015_Obaid_Environment.md) by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, and Morten Fjeld in *HAI*
 - Mutimodal interaction (audio+visual) with a drone was found to be more effective and "sensible" than audio-only and visual-only modalities.
 
-6. Al-Zayer et al. 2016
+6. [Exploring the Use of a Drone to Guide Blind Runners](2016_AlZayer_Runners.md) by Majed Al-Zayer, Sam Tregillus, Jiwan Bhandari, Dave Feil-Seifer, and Eelke Folmer in *ASSETS*
 - It may be feasible to use drones for tasks involving localization and nagivation at a slow pace, by the sound of the drone alone, without relying on sight.
 - At a high pace, when running or undertaking physical exercise of intensity, it is not feasible to expect people to follow or localize a drone by sound alone, without sight.
 
-7. Jones et al. 2016
+7. [Elevating Communication, Collaboration, and Shared Experiences in Mobile Video through Drones](2016_Jones_MobileVideo.md) by Brennan Jones, Kody Dillman, Richard Tang, Anthony Tang, Ehud Sharlin, Lora Oehlberg, Carman Neustaedter, and Scott Bateman in *DIS*
 - FPs were genrally comfortable around the drone, but some reported discomfort with propeller noise.
 
-8. Avila Soto et al. 2017
+8. [DroneNavigator: Using Leashed and Free-Floating Quadcopters to Navigate Visually Impaired Travelers](2017_AvilaSoto_DroneNavigator.md) by Mauro Avila Soto, Markus Funk, Matthias Hoppe, Robin Boldt, Katrin Wolf, and Niels Henze in *ASSETS*
 - Task completion time was fastest with the free-flying quadcopter, followed by the leashed quadcopter, then the audio. Task completion time with the free-flying quadcopter was significantly faster than with the audio navigation.
 - Audio navigation led to the most navigation errors, followed by the free-flying quadcopter. The leashed quadcopter led to the least errors. Differences were statistically signifiant.
 - Audio navigation was perceived to be inducing the least workload, followed by the leashed quadcopter, then the free-flying quadcopter. However, these differences were not statistically significant.
@@ -32,22 +32,22 @@
 - The leashed quadcopter was accepted as a precise navigation tool, but was not preferred since it encumbers both hands (one with the leash, while one is readily holding a cane).
 - Despite leading to better task performance and various ergonomic advantages, acceptance of drones as a navigational aid was not higher than the technically "worse" solution (audio); due to a lack of confidence in the technology in diverse environments, noise characteristics, and concerns over social acceptance.
 
-9. Chang, Chundury, and Chetty 2017
+9. ["Spiders in the Sky": User Perceptions of Drones, Privacy, and Security](2017_Chang_SpidersInTheSky.md) by Victoria Chang, Pramod Chundury, and Marshini Chetty in *CHI*
 - Drone designs should explore the use of non-visual cues and recording feedback to enhance users’ privacy and security.
 - All of the drone group participants had a negative reaction to the sound that the drone made.
 - To help protect wildlife, we also suggest that drones could be designed with visual or audio animal repellents.
 
-10. Colley et al. 2017
+10. [Investigating Drone Motion as Pedestrian Guidance](2017_Colley_InvestigatingDroneMotion.md) by Ashley Colley, Lasse Virtanen, Pascal Knierim, Jonna Häkkilä in *MUM*
 - The drone’s loud noise was commented negatively by 7/10 participants.
 
-11. Yeh et al. 2017
+11. [Exploring Proxemics in Human-Drone Interaction](2017_Yeh_ExploringProxemics.md) by Alexander Yeh, Photchara Ratsamee, Kiyoshi Kiyokawa, Yuki Uranishi, omohiro Mashita, Haruo Takemura, Morten Fjeld, and Mohammad Obaid in *HAI*
 - Noise of the drone added to the mental stress of any human in the vicinity of the drone.
 
-12. Knierim et al. 2018a
+12. [Flyables: Exploring 3D Interaction Spaces for Levitating Tangibles](2018_Knierim_Flyables.md) by Pascal Knierim, Alexander Achberger, Thomas Kosch, and Markus Funk in *TEI*
 -
 
-13. Knierim et al. 2018b
+13. [Quadcopter-Projected In-Situ Navigation Cues for Improved Location Awareness](2018_Knierim_Quadcopter-ProjectedInSituNavigationCues.md) by Pascal Knierim, Steffen Maurer, Katrin Wolf, and Markus Funk in *CHI*
 -
 
-14. Walker et al. 2018
+14. [Communicating Robot Motion Intent with Augmented Reality](2018_Walker_CommunicatingRobotMotionIntent.md) Michael Walker, Hooman Hedayati, Jennifer Lee, and Daniel Szafir in *HRI*
 - ARHMD technology can significantly improve user understandings of robot intent and increase objective task efficiency.
