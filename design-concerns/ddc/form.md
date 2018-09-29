@@ -1,6 +1,6 @@
 # Form
 
-1. 1. [Daedalus: A sUAV for Human-Robot Interaction](2014_Arroyo_Daedalus.md) by Dante Arroyo, Cesar Lucho, Julissa Roncal, and Francisco Cuellar in *HRI*
+1. [Daedalus: A sUAV for Human-Robot Interaction](2014_Arroyo_Daedalus.md) by Dante Arroyo, Cesar Lucho, Julissa Roncal, and Francisco Cuellar in *HRI*
 - Human-robot interaction can be improved by giving the robot the faculty to perform different emotional states through a communication interface.
 - Subjects were not always consistent for each interpretation that comprehended head movements and eye color.
 
