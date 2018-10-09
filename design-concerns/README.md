@@ -4,7 +4,7 @@ Findings from [our corpus of research papers](https://github.com/socialdrones/de
 
 From the literature, we have identified 6 HCCs and 6DDCs. These were defined so that ahigh degree of orthogonality was maintained between categories, along with inclusive coverage of the design knowledge in the literature.
 
-![](designreview/_img/overview.png)
+![Summary of Concerns Illustrated](https://github.com/socialdrones/designreview/raw/master/_img/overview.png)
 
 ## Contents
 
