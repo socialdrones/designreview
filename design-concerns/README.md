@@ -1,6 +1,6 @@
 # Design Concerns for Social Drones
 
-Findings from [our corpus of research papers](https://github.com/socialdrones/designreview/tree/master/prospectuses) were clustered based on an emergent framework relating *human-centered concerns* (HCCs) and *product design concerns* (PDCs), in order to consolidate and compare design knowledge created through different studies.
+Findings from [our corpus of research papers](https://github.com/socialdrones/designreview/tree/master/prospectuses) were clustered based on an emergent framework relating *drone design concerns* (DDCs) and *human-centered concerns* (HCCs), in order to consolidate and compare design knowledge created through different studies.
 
 From the literature, we have identified 6 HCCs and 6DDCs. These were defined so that ahigh degree of orthogonality was maintained between categories, along with inclusive coverage of the design knowledge in the literature.
 
