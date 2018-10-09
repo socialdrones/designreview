@@ -2,7 +2,9 @@
 
 The relatively recent commodification of drones has motivated and enabled researchers to investigate human factors in social drones through empirical studies. These investigations are borne from a continuum of approaches across design and engineering, and accordingly reported in a variety of outlets associated with different interests.
 
-To consolidate this body of research, we first curated a corpus of works by first selecting relevant papers from the first 200 search results each for "social drones" in the [ACM Digital Library](https://dl.acm.org). We screened the results for papers reporting on empirical work, which includes design workshops and design critique sessions. Papers reporting on technical research without covering human factors, design proposals without empirical studies, and works dealing with piloting (i.e. real-time low-level motion control) in lieu of autonomous flight were excluded. This resulted in a selection of 31 papers, and X more were discovered through citation links, resulting in a corpus of X papers. (Subsequent searches in [Google Scholar](https://scholar.google.com) and the [IEEE Xplore Digital Library](https://ieeexplore.ieee.org/) performed after the inclusion of cited papers did not return any additional relevant results.)
+To consolidate this body of research, we first curated an initial corpus of works by first selecting relevant academic papers. Only papers reporting on empirical work are included (which also covers design workshops and design critique sessions). Papers reporting on technical research without covering human factors, design proposals without empirical studies, and works dealing with piloting (i.e. real-time low-level motion control) in lieu of autonomous flight were excluded. The distribution of the papers in our corpus in time also implies a trend towards growth in research on social drone design.
+
+![Trends in research on social drone design](https://github.com/socialdrones/designreview/raw/master/_img/trend.png)
 
 Based on an initial reading of the papers, we developed a set of questions that would allow us to characterize the works, so that subsequently we would be able to consolidate and compare findings across studies. These questions were:
 
@@ -12,7 +14,9 @@ Based on an initial reading of the papers, we developed a set of questions that 
 4. What results have been obtained from the studies?
 5. How do the results inform design; i.e. what design implications, lessons, or guidelines have been derived from the results?
 
-For each paper, a short prospectus was written, comprising answers to the questions above. This directory contains these prospectuses for viewing. Furthermore, we welcome additions and edits from the community.
+For each paper, a short prospectus was written, comprising answers to the questions above. This directory contains these prospectuses for viewing.
+
+We welcome additions and edits from the community.
 
 ## Contents
 
