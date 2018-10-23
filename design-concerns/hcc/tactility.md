@@ -2,13 +2,13 @@
 
 *To what degree do participants perceive the drone design under investigation as something they can touch or hold?*
 
-# Summary Analysis
+## Summary Analysis
 
 Even though airborne tangible UIs appear to hold much future potential for novel interaction designs, studies agree that potential users rarely recognize propeller-driven drones as providing safe and stable touch affordances in early encounters; however, as quick as during the progression of a single user study, participants have been observed to adapt well to the concept - provided, understandably, that the moving parts are appropriately enclosed in protective exteriors. 
 
 While we have not come across a dedicated study on the effect of drone size on the perception of tactile affordances, that greater aversion to touching a drone has been observed in studies with a larger drone. Specifically, studies using compact prototypes with a greatest dimension of 12cm have yielded favorable results, in contrast to earlier studies with full-size drones. Finally, more favorable results with tactile affordances have been reported in the context of sports and exercise, where presumably participants felt prepared to respond reflexively to unexpected drone behavior.
 
-# Sources
+## Sources
 
 [Boxing against drones: Drones in sports education](2016_Zwaan_Boxing.md) by Sergej G. Zwaan and Emilia I. Barakova in *IDC*
 
