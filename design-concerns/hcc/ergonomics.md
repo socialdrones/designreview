@@ -2,6 +2,18 @@
 
 *Are participants physically comfortable in interacting with the drone(s) using the proposed interaction design(s)?*
 
+## Summary Analysis
+
+Ergonomics in the context of interactive drones has been most relevant for gesture-based control schemes, drone-based tangibles, and in cases where users are supposed to direct their attention or whole body to follow a drone. The literature suggests various heuristics for each of these contexts.
+
+For gesture-based control schemes, it is suggested that props can easily become cumbersome and to be avoided if possible; and large gestures quickly lead to "gorilla arm"-type exhaustion. Similarly, studies with compact flying tangibles affording "push" and "drag" interactions also report that a modest interaction space, roughly 1m in each direction, and positioned between elbow and chest height, provides for favorable ergonomics. These studies are executed with WoZ methods, and practical investigations of drone-mounted gesture recognition capabilities may be of interest for future work.
+
+For cases where a drone is meant to be followed with the gaze, studies suggest caution against extensive movement, especially of the user. Experiments with drone-mounted displays have shown that legibility can be good when both the observer and the drone are static, and reasonable when the drone moves; but content can become illegible in cases where the user's movement exceeds a slow walking speed. Maintaining interaction with a drone-mounted eye tracker is also reported to become similarly challenging for a moving human. Conversely, such issues have not been reported with displays based on drone-mounted projection. Collectively, these findings suggest that stability of the user and the medium are both critical for drone-based displays.
+
+Some studies, particularly for assistive technologies for the blind, experiment with of using propeller noise to localize a drone. The results here are mixed, with initial explorations producing promising results, while more rigorous studies with greater numbers of participants and more sophisticated methodology revealing drawbacks in terms of both users' confidence in the technology and its performance in noisy environments. Intentional design of both mechanical and speaker-reproduced sounds for these applications has been left for future work.
+
+## Sources
+
 [Collocated Interaction with Flying Robots](2011_Ng_Collocated.md) by Wai Shan (Florence) Ng and Ehud Sharlin in *RO-MAN*
 
 - Using large gestures as the sole interaction modality quickly leads to fatigue.
