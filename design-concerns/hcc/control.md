@@ -2,6 +2,14 @@
 
 *To what degree are participants able to intuitively control the drone via the interaction design under investigation, without extensive documentation or explanation? What kinds of interaction designs would be conducive to such intuitive control?*
 
+## Summary Analysis
+
+While smartphone applications and joystick-based controllers are common in drone piloting, many studies in our corpus have focused on designing and evaluating control schemes based on gesture and voice. Furthermore, in exploratory studies, gesture and voice have emerged as the preferred modes of communicating with social drones. Preferences between voice and gesture appear to be dependent on context, as well as familiarity; with participants in outdoor and public contexts feeling initial discomfort with talking to drones and relying on gesture before becoming comfortable with voice interactions over the course of studies; and participants in private environments expressing a preference for voice interaction. However, studies largely agree that multimodal interactions using voice and gesture in tandem or sequence, as well as optionality for issuing certain commands in both modalities, appear more promising from both technical and user experience standpoints.
+
+Researchers suggest "interacting with a pet" as an almost universally natural design metaphor for drone command. However, collectively, studies indicate that the composition of a universally natural or intuitive command repertoire is challenging, due to individual and cultural differences; although for some commands and populations, significant agreement over certain command types is reported (e.g. a "stop" gesture among American participants). This motivates future work on the design of intuitive documentation and "onboarding" procedures for gestural and vocal interactions with social drones, as well as end-user programming of custom gesture sets for drones.
+
+## Sources
+
 [Drone & Me: An Exploration Into Natural Human-Drone Interaction](2015_Cauchard_DroneAndMe.md) by Jessica R. Cauchard, Jane L. E, Kevin Y. Zhai, and James A. Landay in *UbiComp*
 
 - Participants largely preferred to interact with the drone through gestures alone, then with voice, and then with a combination of gesture and voice (in tandem or in sequence). (A small number of prop-based interactions was discarded from analysis.)
