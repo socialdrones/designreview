@@ -2,6 +2,12 @@
 
 *To what degree are participants able to interpret intentions or messages that the drone is trying to convey via the interaction design under investigation, without extensive documentation or explanation?*
 
+## Summary Analysis
+
+Comprehension of a drone's internal state, future actions, and task instructions by humans can be motivated by comfort, safety, or task performance considerations in many contexts. To this end, researchers have primarily investigated the use of flight behaviors, as well as lighting designs. For many such applications, researchers note that it pays off to have an external design with a discernible "front," and to take care in designing flight gesture repertoires that are distinct from regular flight motions. Further, the smoothness of motions is noted to be correlated with intuitive comprehension of drone intent. Drone motion has also been successfully leveraged to for the potentially more cognitively demanding purpose of communicating navigational instructions, but some flight gestures (such as "straight ahead") in this case were also associated with discomfort due to abruptness. In all cases, researchers note that there is a limitation in how fine-grained such interpretations of intention, state, and instruction from drone motion and abstract lighting designs can be, and suggest that precise communication is best documented explicitly or designed involving other modalities.
+
+## Sources
+
 [Daedalus: A sUAV for Human-Robot Interaction](2014_Arroyo_Daedalus.md) by Dante Arroyo, Cesar Lucho, Julissa Roncal, and Francisco Cuellar in *HRI*
 
 - Movements without propeller noise tended to generate positive emotions, while movements with operating propellers evoked the opposite.
