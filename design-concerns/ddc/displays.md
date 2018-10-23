@@ -1,62 +1,69 @@
 # Lights and Displays
 
-1. [Displaydrone: A Flying Robot Based Interactive Display](2013_Scheible_Displaydrone.md) by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in *PerDis*
+[Displaydrone: A Flying Robot Based Interactive Display](2013_Scheible_Displaydrone.md) by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in *PerDis*
+
 - Projector considerations: darkness, distance
 - Very attention-grabbing: as a flying object, noise source, and light source
 
-2. [Daedalus: A sUAV for Human-Robot Interaction](2014_Arroyo_Daedalus.md) by Dante Arroyo, Cesar Lucho, Julissa Roncal, and Francisco Cuellar in *HRI*
+[Daedalus: A sUAV for Human-Robot Interaction](2014_Arroyo_Daedalus.md) by Dante Arroyo, Cesar Lucho, Julissa Roncal, and Francisco Cuellar in *HRI*
+
 - Human-robot interaction can be improved by giving the robot the faculty to perform different emotional states through a communication interface.
 - Subjects were not always consistent for each interpretation that comprehended head movements and eye color.
 
-3. [Midair Displays: Concept and First Experiences with Free-Floating Pervasive Displays](2014_Schneegass_PerDis.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, and Albrecht Schmidt in *PerDis*
+[Midair Displays: Concept and First Experiences with Free-Floating Pervasive Displays](2014_Schneegass_PerDis.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, and Albrecht Schmidt in *PerDis*
+
 - Readability is significantly worse when participant is walking.
 - No significant difference between readability in stationary, hovering, flying conditions
 - Proposed use cases for free-floating pervasive displays: Emergency, advertisement, group displays, entertainment, notifications, hands-occupied cases like swimming/skiing; group use more likely than individual
 - Stable and robust hovering (position control) is needed for free-floating pervasive displays.
 - Use cases should not involve moving user, but drone could move.
 
-4. [Midair Displays: Exploring the Concept of Free-Floating Public Displays](2014_Schneegass_Exploring.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, Albrecht Schmidt, and Heifeng Su in *CHI EA*
+[Midair Displays: Exploring the Concept of Free-Floating Public Displays](2014_Schneegass_Exploring.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, Albrecht Schmidt, and Heifeng Su in *CHI EA*
+
 - Stable and robust hovering (position control) is needed for midair displays.
 - Battery life must be considered
 - Midair Displays are preferred while walking, standing, swimming; not while biking, driving
 
-5. [A Drone Agent to Support a Clean Environment](2015_Obaid_Environment.md) by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, and Morten Fjeld in *HAI*
+[A Drone Agent to Support a Clean Environment](2015_Obaid_Environment.md) by Mohammad Obaid, Omar Mubin, Christina Anne Basedow, A. Ayça Ünlüer, Matz Johansson Bergström, and Morten Fjeld in *HAI*
+
 - Multimodal interaction (audio+visual) with a drone was found to be more effective and "sensible" than audio-only and visual-only modalities.
 
-6. [Communicating Directionality in Flying Robots](2015_Szafir_CommunicatingDirectionality.md) by Daniel Szafir, Bilge Mutlu, and Terry Fong in *HRI*
+[Communicating Directionality in Flying Robots](2015_Szafir_CommunicatingDirectionality.md) by Daniel Szafir, Bilge Mutlu, and Terry Fong in *HRI*
+
 - Users preferred signal specificity at the cost of generalizability and overall found gaze behaviors to be highly useful in improving flyer abilities to communicate and collaborate effectively.
 - User responses support the notion that visual cues should convey high level aspects of flight intentions rather than low level corrections to flight paths.
 
-7. [In-Situ-DisplayDrone: Facilitating Co-located Interactive Experiences via A Flying Screen](2016_Scheible_InSituDisplayDrone.md) by Jürgen Scheible and Markus Funk in *PerDis*
+[In-Situ-DisplayDrone: Facilitating Co-located Interactive Experiences via A Flying Screen](2016_Scheible_InSituDisplayDrone.md) by Jürgen Scheible and Markus Funk in *PerDis*
+
 - Both prototypes were met with positive, "joyful" reactions.
 - In outdoor deployments, the apparatus may become unstable in strong wind conditions (largely because of the canvas moving); and can only be used in calm weather.
 
-8. ["Spiders in the Sky": User Perceptions of Drones, Privacy, and Security](2017_Chang_SpidersInTheSky.md) by Victoria Chang, Pramod Chundury, and Marshini Chetty in *CHI*
+["Spiders in the Sky": User Perceptions of Drones, Privacy, and Security](2017_Chang_SpidersInTheSky.md) by Victoria Chang, Pramod Chundury, and Marshini Chetty in *CHI*
+
 - Drone designs should explore the use of non-visual cues and recording feedback to enhance users’ privacy and security.
 - We suggest that drone designers carefully consider the use of colors, logos, and decorations to make drones “friendly”, or “unfriendly” in cases where it is necessary for people to keep their distance from certain drones
 
-9. [Social Drone Companion for the Home Environment: a User-Centric Exploration](2017_Karjalainen_SocialDroneCompanion.md) by Kari Daniel Karjalainen, Anna Elisabeth Sofia Romell , Photchara Ratsamee, Asım Evren Yantac, Morten Fjeld, and Mohammad Obaid in *HAI*
+[Social Drone Companion for the Home Environment: a User-Centric Exploration](2017_Karjalainen_SocialDroneCompanion.md) by Kari Daniel Karjalainen, Anna Elisabeth Sofia Romell , Photchara Ratsamee, Asım Evren Yantac, Morten Fjeld, and Mohammad Obaid in *HAI*
+
 - Participants were neutral about the animal like appearance. On how machine-like the drone should be, participants were slightly leaning towards a machine-like appearance. Participants wanted to see some human-like behavior.
 - The preferred drone appearance was a round shape and with a face. Other preferred features were arms, eyes and machine like features.
 
-10. [Exploring Proxemics in Human-Drone Interaction](2017_Yeh_ExploringProxemics.md) by Alexander Yeh, Photchara Ratsamee, Kiyoshi Kiyokawa, Yuki Uranishi, omohiro Mashita, Haruo Takemura, Morten Fjeld, and Mohammad Obaid in *HAI*
+[Exploring Proxemics in Human-Drone Interaction](2017_Yeh_ExploringProxemics.md) by Alexander Yeh, Photchara Ratsamee, Kiyoshi Kiyokawa, Yuki Uranishi, omohiro Mashita, Haruo Takemura, Morten Fjeld, and Mohammad Obaid in *HAI*
+
 - The social drone (drone with a tablet as a face) performed significantly better in closing the distance than what the nonsocial drone could do.
 
-11. [FlyMap: Interacting with Maps Projected from a Drone](2018_Brock_FlyMap.md) by Anke M. Brock, Julia Chatain, Michelle Park, Tommy Fang, Martin Hachet, James A. Landay, and Jessica R. Cauchard in *PerDis*
+[FlyMap: Interacting with Maps Projected from a Drone](2018_Brock_FlyMap.md) by Anke M. Brock, Julia Chatain, Michelle Park, Tommy Fang, Martin Hachet, James A. Landay, and Jessica R. Cauchard in *PerDis*
+
 - For drone-based maps, all the visual information should be integrated into a single display (the projection).
 
-12. [Flyables: Exploring 3D Interaction Spaces for Levitating Tangibles](2018_Knierim_Flyables.md) by Pascal Knierim, Alexander Achberger, Thomas Kosch, and Markus Funk in *TEI*
--
+[Quadcopter-Projected In-Situ Navigation Cues for Improved Location Awareness](2018_Knierim_Quadcopter-ProjectedInSituNavigationCues.md) by Pascal Knierim, Steffen Maurer, Katrin Wolf, and Markus Funk in *CHI*
 
-13. [Quadcopter-Projected In-Situ Navigation Cues for Improved Location Awareness](2018_Knierim_Quadcopter-ProjectedInSituNavigationCues.md) by Pascal Knierim, Steffen Maurer, Katrin Wolf, and Markus Funk in *CHI*
 - In-situ navigation instructions provided by the levitating quadcopter were leading to a significantly shorter distance compared to the smartphone-based navigation instructions.
 - Participants required considerably more time to complete a route using in-situ navigation instructions using a levitating projector.
 - Participants could memorize points of interest significantly more accurately using in-situ instructions.
 - Using in-situ navigation instructions while walking leads to a higher memorability of the surroundings as opposed to mobile phone navigation, but it requires more time.
 
-14. [Privacy and Fear in the Drone Era: Preserving Privacy Expectations Through Technology](2018_Uchidiuno_PrivacyandFear.md) by Judith Uchidiuno, Justin D. Weisz, and Justin Manweller in *CHI EA*
+[Privacy and Fear in the Drone Era: Preserving Privacy Expectations Through Technology](2018_Uchidiuno_PrivacyandFear.md) by Judith Uchidiuno, Justin D. Weisz, and Justin Manweller in *CHI EA*
+
 - Privacy-preserving technologies can reduce privacy-related drone fears.
 - Technologies that prevent the capture of data in sensitive situations had the greatest impact, and technologies that allow individuals to query a drone for its owner, purpose, and data being collected also helped significantly.
-
-15. [Communicating Robot Motion Intent with Augmented Reality](2018_Walker_CommunicatingRobotMotionIntent.md) Michael Walker, Hooman Hedayati, Jennifer Lee, and Daniel Szafir in *HRI*
-- ARHMD technology can significantly improve user understandings of robot intent and increase objective task efficiency.
