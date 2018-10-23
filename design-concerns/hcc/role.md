@@ -2,6 +2,12 @@
 
 *What kinds of existing conventions — e.g. privileges, responsibilities, expectations — around social roles assigned to living beings are relevant for drone behavior?*
 
+## Summary Analysis
+
+While a diverse array of task- and context-based functions and roles for drones have been explored, studies most commonly suggest that people are inclined to and comfortable with using a "pet" metaphor for interacting with drones. Qualitative findings support the "pet" metaphor from many angles. For example, human interpretations of drone behavior have been reported to be often based on expectations formed by animal behavior; gesture- and voice-based interactions with drones have been observed to induce, over the course of studies, attachment and socialization as if towards a pet; and the capability to "train" a drone like a pet has been preferred over direct and absolute control. The strength of how much this metaphor influences user sentiment and behavior may vary based on cultural factors, but findings converge over the existence of such influence. This evidence points to opportunities for future work around transferring knowledge from animal cognition and behavior, as well as human-animal interactions and animal training, to drone design.
+
+## Sources
+
 [Collocated Interaction with Flying Robots](2011_Ng_Collocated.md) by Wai Shan (Florence) Ng and Ehud Sharlin in *RO-MAN*
 
 - Using gestures to control a drone can be used to induce attachment / socialization, as if it were a pet
