@@ -1,5 +1,15 @@
 # Lights and Displays
 
+*How can drone-mounted lights and displays (on a con-tinuum of resolution characteristics) be used as a communication media to communicate internal system states and other messages?*
+
+## Summary Analysis
+
+Designs that augment the appearance of a social drone with lights and displays meant to communicate system states, movement intentions, and other messages, as well as applications that use drones to implement novel display methods, are examples of works where lights and displays are investigated as a primary design concern. In terms of design outcomes, this concern connects to numerous human-centered aspects. For example, designs that leverage displays to create anthropomorphic or animal-like features on drones have been proposed to enhance the [appeal](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/appeal.md) of social drones in home scenarios. More commonly, research has looked into how lights and displays can be used to alert users and bystanders of intented drone actions and states, such as where the drone will fly to next, or whether or not it is recording video or audio at a given moment. Heuristics emerging from these investigations are covered under the human-centered concern of [intuitive comprehehsion](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/comprehension.md), since the intention with many of these designs is to make affordances and information clear in encountered interactions with novice or lay users, without using high-resolution messages. 
+
+In the case of novel displays that are implemented using drones (e.g. drone mounted projectors, projection surfaces, and e-ink displays; as well as using drones themselves as levitating pixels), the primary issue often becomes the legibility and ergonomics of the design, since the interactions with these designs are largely one-sided with the human as a spectator. Heuristics emerging from these studies are covered under the human-centered concern [ergonomics](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/ergonomics.md).
+
+## Sources
+
 [Displaydrone: A Flying Robot Based Interactive Display](2013_Scheible_Displaydrone.md) by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in *PerDis*
 
 - Projector considerations: darkness, distance
