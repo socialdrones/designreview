@@ -1,5 +1,19 @@
 # Control Methods
 
+What modalities and command repertoires are appropriate for issuing high-level commands tro drones (e.g. "take off" or "follow me," rather than real-time "piloting")? 
+
+## Summary Analysis
+
+Studies have explored the use of voice, gesture, and external control devices for high-level drone control, as well as "tangible" drones that can be directly manipulated.
+
+Control is a significant design concern which permeates both sides of the design space for social drones. To capture the dimension of control within user experience outcomes, we considered the concern of [intuitive control](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/control.md), where the aim is to ensure that control affordances (which often rely on intangible means such as gesture or voice) are discoverable or otherwise understandable without documentation or explanation. Distinct from other kinds of devices, in the context of social drones this concern becomes more significant since such a drone may be expected to be involved in encountered interactions with lay humans.
+
+For gesture-based control schemes, drone-based tangibles, and in cases where users are to follow a drone with their attention or by moving, [ergonomics](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/ergonomics.md) is a prominent human-centered concern, and various heuristics linking ergonomics outcomes to various parameters related to drone control have emerged (see linked page). The human-centered concern of [tactility perception](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/tactility.md) addresses the case of tangible drones specifically, and covers heuristics for how such drones can be designed for comfortable use.
+
+Since many control approaches involve large gestures, vocalization, or novel devices, issues around social acceptance and privacy also become prominent. HEuristics relating control scheme designs to these issues are covered in the human-centered concern [appeal](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/appeal.md).
+
+## Sources
+
 [Collocated Interaction with Flying Robots](2011_Ng_Collocated.md) by Wai Shan (Florence) Ng and Ehud Sharlin in *RO-MAN*
 
 - Using gestures is more natural and less cognitively demanding for casual/novice users, compared to using a controller which demands attention switching between drone and controller.
@@ -69,7 +83,7 @@
 - Support should be designed for multi-modal interaction allowing use of slight variation in gestures, and extra contextual words.
 - When Chinese participants used multi-modal interaction, the sound would often (75%) align in meaning with the gestural interaction (i.e., palm out, “stop”). For the other 25% of multi-modal interactions, the sound augmented the gesture used to convey the task.
 - There were cultural agreement for the tasks “come closer”, “take a picture” and “go sideways”
-- There were cultural disagreement for the tasks “stop”,”fly higher”
+- There were cultural disagreement for the tasks “stop”, ”fly higher”
 - It is important to avoid ambiguity. The addition of voice could also aid in clarifying intention.
 - Both Chinese and US participants were likely to compare the interactions with the drone to those with people.
 - Chinese participants were less likely than US ones to think of the drone as a pet
