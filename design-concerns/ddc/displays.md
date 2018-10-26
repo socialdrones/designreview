@@ -18,7 +18,6 @@ In the case of novel displays that are implemented using drones (e.g. drone moun
 [Daedalus: A sUAV for Human-Robot Interaction](2014_Arroyo_Daedalus.md) by Dante Arroyo, Cesar Lucho, Julissa Roncal, and Francisco Cuellar in *HRI*
 
 - Human-robot interaction can be improved by giving the robot the faculty to perform different emotional states through a communication interface.
-- Subjects were not always consistent for each interpretation that comprehended head movements and eye color.
 
 [Midair Displays: Concept and First Experiences with Free-Floating Pervasive Displays](2014_Schneegass_PerDis.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, and Albrecht Schmidt in *PerDis*
 
