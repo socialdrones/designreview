@@ -1,5 +1,17 @@
 # Form
 
+How do aspects of the visual appearance of a drone (including size, shape, color, and appendages) impact user/bystander experiences?
+
+## Summary Analysis
+
+Both technical and aesthetic aspects of visual/formal design in social drones are most saliently linked with a human-centered concern we termed [appeal](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/appeal.md), which covers both initial and in-use experiences with drones that drive acquisition, adoption, acceptance, safety perceptions, etc. While a number of factors relating to how the visual appearance of a drone impacts these perceptions are culture- and application-dependent, consensus exists around some factors such as size - the smaller, the better; unless prohibited by technical requirements. A related concern is the [social roles](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/role.md) to be fulfilled by drones and existing conventions that scaffold them; where in sum, the visual design of drones are expected to be congruent with the kinds of social roles the ought to fulfill (e.g. using a softer, more "approachable" formal language for a drone which is to provide companionship, and more aggressive designs for defense applications).
+
+For interactive drones that call for tactile manipulation, the form is again a salient design concern, and size again seems to be an important formal consideration: a tangible drone has to eiths fit into the hand, or have suitable appendages that communicate tactile affordances.
+
+Beyond what is communicated by the formal design in subtle ways, more explicit and dynamic commnication is possible through incorporating [lights and displays](https://github.com/socialdrones/designreview/blob/master/design-concerns/ddc/displays.md) on drones (deliniated as a seperate drone design concern, see link).
+
+## Sources
+
 [Daedalus: A sUAV for Human-Robot Interaction](2014_Arroyo_Daedalus.md) by Dante Arroyo, Cesar Lucho, Julissa Roncal, and Francisco Cuellar in *HRI*
 
 - Human-robot interaction can be improved by giving the robot the faculty to perform different emotional states through a communication interface.
