@@ -1,6 +1,6 @@
 # Control Methods
 
-*What modalities and command repertoires are appropriate for issuing high-level commands tro drones (e.g. "take off" or "follow me," rather than real-time "piloting")? *
+*What modalities and command repertoires are appropriate for issuing high-level commands tro drones (e.g. "take off" or "follow me," rather than real-time "piloting")?*
 
 ## Summary Analysis
 
