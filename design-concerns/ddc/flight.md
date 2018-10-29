@@ -1,5 +1,13 @@
 # Flight
 
+How can a drone’s movements and stance be used in interaction designs as a communicative medium? How are designs for motion patterns or styles (informed by theory) perceived on various cognitive and sentimental levels?
+
+## Summary Analysis
+
+Human perception and understanding of the external world (including other living beings) are driven on a very fundamental level by movement. Reflexive responses to environmental happenings due to movement happen much faster than those due to information of other kinds (e.g. we are instinctively driven to dodge an object hurled towards us, long before we comprehend what the object is); and our perceptions of the internal state of other living beings is influenced heavily by their movement qualitites. Similarly, in the social drone design space, movement qualities are intimately linked to a dimension of outcomes we term [intuitive comprehension](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/comprehension.md), where prior research has explored themes around communicating information on internal states and intentions of drones via flight characteristics. As with qualities that manifest in visual/formal ways, flight is also linked to concerns around [product appeal](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/appeal.md) and [role](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/role.md). Across all of these concerns, researchers have observed that smooth, stable movements that incorporate easing and similar techniques are preferable, in that they evoke perceptions of safety and comfort, and improve the legibility of movement-based communications. Flight movements also have potential to be exploited as a feedback channel during high-level drone [control](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/control.md).
+
+## Sources
+
 [Displaydrone: A Flying Robot Based Interactive Display](2013_Scheible_Displaydrone.md) by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in *PerDis*
 
 - Stable and robust hovering (position control) is needed
