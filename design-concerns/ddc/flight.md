@@ -1,6 +1,6 @@
 # Flight
 
-How can a drone’s movements and stance be used in interaction designs as a communicative medium? How are designs for motion patterns or styles (informed by theory) perceived on various cognitive and sentimental levels?
+*How can a drone’s movements and stance be used in interaction designs as a communicative medium? How are designs for motion patterns or styles (informed by theory) perceived on various cognitive and sentimental levels?*
 
 ## Summary Analysis
 
