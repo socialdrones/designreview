@@ -13,10 +13,6 @@ Human perception and understanding of the external world (including other living
 - Stable and robust hovering (position control) is needed
 - Moving / subject following drone creates novel affordances for content (e.g. running shoe ad)
 
-[Daedalus: A sUAV for Human-Robot Interaction](2014_Arroyo_Daedalus.md) by Dante Arroyo, Cesar Lucho, Julissa Roncal, and Francisco Cuellar in *HRI*
-
-- Subjects were not always consistent for each interpretation that comprehended head movements and eye color.
-
 [Midair Displays: Concept and First Experiences with Free-Floating Pervasive Displays](2014_Schneegass_PerDis.md) by Stefan Schneegass, Florian Alt, Jürgen Scheible, and Albrecht Schmidt in *PerDis*
 
 - Readability is significantly worse when participant is walking
