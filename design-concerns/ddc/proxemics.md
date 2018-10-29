@@ -1,5 +1,13 @@
 # Proxemics
 
+*How can proximity be purposefully exploited a channel of communication, interaction, and cultural elaboration for social drones?*
+
+## Summary analysis
+ 
+Proxemics emerges as a concern that is distinct from movement/[flight](https://github.com/socialdrones/designreview/blob/master/design-concerns/ddc/flight.md) in both drone design literature, and in resources rooted in anthropology and psychology which drive the theory on which drone-related designs are based. In the context of social drones, some studies focus exclusively on the influence of proxemics on human experience outcomes, aiming to isolate proxemics as a factor distinct from other design dimensions. The focus on these studies is almost always centered around outcomes related to the [appeal](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/appeal.md) of a drone based product, in terms of both initial impressions and longer-term user experiences that underpin acceptance, comfort, etc. Implicitly, proxemics also plays an important role in some implementations of drone-based displays, where the outcomes investigated pertain largely to the legibility/[ergonomics](https://github.com/socialdrones/designreview/blob/master/design-concerns/hcc/ergonomics.md) of the designs.
+
+## Sources
+
 [Displaydrone: A Flying Robot Based Interactive Display](2013_Scheible_Displaydrone.md) by Jürgen Scheible, Achin Hoth, Julian Saal, and Haifeng Su in *PerDis*
 
 - Moving / subject following drone creates novel affordances for content (e.g. running shoe ad)
