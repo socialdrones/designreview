@@ -1,6 +1,6 @@
 # Form
 
-How do aspects of the visual appearance of a drone (including size, shape, color, and appendages) impact user/bystander experiences?
+*How do aspects of the visual appearance of a drone (including size, shape, color, and appendages) impact user/bystander experiences?*
 
 ## Summary Analysis
 
